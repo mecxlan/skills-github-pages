@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Mecxlan
 ---
+**Welcome to my blog site**
+
 
